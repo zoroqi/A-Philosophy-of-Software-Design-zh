@@ -1,6 +1,6 @@
 # 目录
 
-<img src="./cover.jpeg" style="width: 28%" />
+![[cover.jpeg]]
 
 斯坦福教授、Tcl 语言发明者 John Ousterhout 的著作《A Philosophy of Software Design》，自出版以来，好评如潮。按照 IT 图书出版的惯例，如果冠名为“实践”，书中内容关注的是某项技术的细节和技巧；冠名为“艺术”，内容可能是记录一件优秀作品的设计过程和经验；而冠名为“哲学”，则是一些通用的原则和方法论，这些原则方法论串起来，能够形成一个体系。正如”知行合一”、“世界是由原子构成的”、“我思故我在”，这些耳熟能详的句子能够一定程度上代表背后的人物和思想。用一句话概括《A Philosophy of Software Design》，软件设计的核心在于降低复杂性。
 
@@ -27,3 +27,8 @@
 - [第 20 章 设计性能](ch20.md)
 - [第 21 章 结论](ch21.md)
 - [总结](summary.md)
+
+不同的版本
+- [没有英文的版本](https://go7hic.github.io/A-Philosophy-of-Software-Design/#/)
+    - [A-Philosophy-of-Software-Design](https://github.com/Go7hic/A-Philosophy-of-Software-Design)
+- [英文pdf](https://milkov.tech/assets/psd.pdf) [archive](https://web.archive.org/web/20240129015627/https://milkov.tech/assets/psd.pdf)
